@@ -1,2 +1,7 @@
 # Camtasia_mAuthorParser
-A parser for Interactive video made with Camtasia for hosting in mAuthor
+VIP
+A parser for Interactive video from Camtasia for hosting in mAuthor
+
+TODO:
+push working script to github
+add support for SCORM scripts
